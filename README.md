@@ -2,6 +2,10 @@
 
 This project simulates a deliberately frustrating and sarcastic cookie consent modal designed to annoy users, much like some real-world examples! It features a modal that displays ridiculous terms and conditions and uses reverse psychology techniques to create an annoying user experience when attempting to decline or accept cookies.
 
+## Live Demo
+You can check out the live demo [here](https://gregoiregeoffroy.github.io/annoying-cookie-consent/).
+
+
 ## Features
 - A modal that pops up after a short delay, giving you no choice but to interact with it.
 - Sarcastic and humorous content, with a playful tone about cookie tracking and data privacy.
@@ -13,6 +17,3 @@ This project simulates a deliberately frustrating and sarcastic cookie consent m
 - HTML, CSS for structure and styling.
 - JavaScript to manage modal interactions and form submission behavior.
 - Google Fonts (Roboto) for typography.
-
-## Demo
-You can check out the live demo [here](https://gregoiregeoffroy.github.io/annoying-cookie-consent/).
